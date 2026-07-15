@@ -4,3 +4,9 @@ __pycache__/
 .env
 .vscode/
 *.log
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+crash.log
